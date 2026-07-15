@@ -20,3 +20,4 @@ test("branch test", async({page})=>
 
 
 //Adding to git123
+//Checking the artifcats correctly uploaded
