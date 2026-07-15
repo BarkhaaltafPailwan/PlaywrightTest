@@ -13,5 +13,10 @@ test("second test", async({page})=>
 })
 
 
+test("branch test", async({page})=>
+{
+   await  page.goto("https://chatgpt.com/")
+})
+
 
 //Adding to git123
